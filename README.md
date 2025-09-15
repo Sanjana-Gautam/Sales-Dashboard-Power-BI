@@ -1,2 +1,2 @@
 # Sales-Dashboard-Power-BI
-Power BI Sales Dashboard analyzing total sales, profit, top customers, product categories, customer segments, and regional performance. Interactive and easy-to-understand insights for business decision-making.
+This Power BI dashboard provides an interactive analysis of sales and profit across different categories, customers, and regions. It helps in identifying top-performing products, customer segments, and regional contributions to overall business performance
